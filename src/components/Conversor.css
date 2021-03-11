@@ -1,0 +1,13 @@
+.conversor {
+    padding: 20px;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+.conversor h2 {
+    color: #ECD078;
+}
+
+div {
+    padding: 8px;
+}

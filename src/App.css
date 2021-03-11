@@ -1,0 +1,21 @@
+body {
+    background-color: #53777A;
+    /*background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));*/
+    font: normal 15pt Arial;
+}
+
+.linha {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+
+}
+h1 {
+    text-align: center;
+    color: #ECD078;
+}
+
+.App{
+    margin: auto;
+    max-width: 900px;
+}
